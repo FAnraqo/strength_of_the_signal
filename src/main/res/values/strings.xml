@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StrenghtSignal</string>
+    <string name="button_text">Калькулятор</string>
+    <string name="hint1">Введите первое число</string>
+    <string name="hint2">Введите второе число</string>
+    <string name="but_calcul">Сложить</string>
+    <string name="but_exit">X</string>
+    <string name="go_back">Завершить отслеживание местоположения</string>
+    <string name="lat">Широта:</string>
+    <string name="lon">Долгота:</string>
+    <string name="sigStr">Сила сигнала:</string>
+    <string name="timelast">Время последнего отчёта:</string>
+    <string name="timeaverage">Сред. время промежутков отчёта:</string>
+    <string name="none">none</string>
+</resources>
